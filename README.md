@@ -1,1 +1,1 @@
-# Recursive quick sort on C
+# Recursive quick sort in C
